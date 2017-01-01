@@ -9,3 +9,11 @@ var sayBye = function() {
 }
 
 sayBye();
+
+function callFunction(fun) {
+  fun();
+}
+
+console.log("Calling functions:");
+callFunction(sayHi);
+callFunction(sayBye);
