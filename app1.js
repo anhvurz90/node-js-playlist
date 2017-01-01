@@ -3,3 +3,9 @@ function sayHi() {
 }
 
 sayHi();
+
+var sayBye = function() {
+  console.log("Bye");
+}
+
+sayBye();
