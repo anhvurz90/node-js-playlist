@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/anhvurz90/node-js-playlist#readme",
   "dependencies": {
+    "ejs": "^2.5.5",
     "express": "^4.14.0"
   }
 }
